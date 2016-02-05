@@ -1,5 +1,3 @@
-## This is the Submission branch
-
 ## Introduction
 
 This assignment uses data from
